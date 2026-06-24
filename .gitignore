@@ -1,4 +1,6 @@
 .env
 questions.json
-__Pycatche__
-.venv
+__pycache__/
+*.pyc
+.venv/
+venv/
